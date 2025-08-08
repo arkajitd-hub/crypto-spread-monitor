@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Project outputs
+logs/
+trades.csv
+trades.jsonl
+
+# OS/editor
+.DS_Store
+*.swp
